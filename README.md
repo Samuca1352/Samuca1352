@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **vue, java, gsap, pc networks**
 
-- 📫 How to reach me **samuel.damasceno@aluno.ifsp.edu.br**
+- 📫 How to reach me **samukael48@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
